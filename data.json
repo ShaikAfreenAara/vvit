@@ -1,0 +1,22 @@
+{
+    "basics":{
+        "name":"Afreen",
+        "role":"Fresher",
+        "email":"shaikafreen@gmail.com",
+        "mobile":"9624743650",
+        "education":[
+            {
+                "degree":"ssc",
+                "percent":9.8
+            },
+            {
+                "degree":"inter",
+                "percent":98.1
+            },
+            {
+                "degree":"B-Tech",
+                "percent":8.9
+            }
+        ]
+    }
+}
